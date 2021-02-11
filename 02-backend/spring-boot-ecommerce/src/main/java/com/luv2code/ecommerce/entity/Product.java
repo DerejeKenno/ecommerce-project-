@@ -8,7 +8,7 @@ import javax.persistence.*;
 import java.math.BigDecimal;
 import java.util.Date;
 
-//Product: an entiry represented as product in mysql database.
+//Product: an entity represented as product in mysql database.
 @Entity
 @Table(name = "product")
 @Data
